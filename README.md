@@ -1,2 +1,1 @@
-# prac-io-0
-Reprisory contains program "Hello world" on C++.
+Репризорий содержит программу "Hello World" на С++, которую можно скомпилировать командой g++ из консоли. 
